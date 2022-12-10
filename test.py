@@ -1,1 +1,2 @@
-print(hi)
+import sklearn
+sklearn.__version__
